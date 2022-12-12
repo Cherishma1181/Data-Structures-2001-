@@ -134,3 +134,60 @@ while True:
     elif ch==11:
         exit()
         
+ OUTPUT:-
+ 1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+The linked list: 4-> 9-> 1-> 2-> 3-> 5-> 
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+deleted data 4
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+deleted data 5
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+deleted data 1
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+The linked list: 9-> 2-> 3-> 
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+element found
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+3
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
+
+1.Create 2.Insert at begin 3.Insert at end 4.Insert at postion 5.Display
+ 6.delete at begin 7.delete at end 8.delete at pos 9. search 10. count 11.Exit 
+
